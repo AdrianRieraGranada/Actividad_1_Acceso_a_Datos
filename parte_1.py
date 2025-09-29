@@ -46,7 +46,7 @@ reservas = [
 
 
 
-directorio_destino = "Actividad_1_Acceso_a_Datos"
+directorio_destino = "ArchivosReservas_parte1"
 
 crear_archivo_reserva("reservas.txt", directorio_destino)
 escribir_reservas("reservas.txt", directorio_destino, reservas)
