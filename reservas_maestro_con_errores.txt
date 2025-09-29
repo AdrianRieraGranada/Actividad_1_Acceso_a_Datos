@@ -1,0 +1,9 @@
+12A, Juan Pérez, Economy, Madrid
+14B, María López, Business, París
+21C, Carlos García, Economy
+05D, Ana Sánchez, Business, Londres
+19E, Luis Gómez
+08F, Sofía Vargas, Economy, Londres
+
+25G, Pedro Martínez, First, New York, Extra
+01A, Laura Díaz, Business, Milán
