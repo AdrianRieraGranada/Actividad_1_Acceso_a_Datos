@@ -1,8 +1,13 @@
 # ACTIVIDAD 1
 
+## REQUISITOS
+Tener versión de Python reciente instalada 
+
 ## HERRAMIENTAS USADAS
 He usado la versión de **Python 3.12**, las librerías **"os"** para la creación de **ficheros** y **"datetime"** para obtener la fecha y la hora de hoy. Y para el uso de IA he usado Copilot para **ayudarme a hacer** las diversas partes, en especial la tercera parte. He documentado partes de la conversación en **IA.md**. 
-
+---
+### Ejecución
+Para ejecutar los scripts simplemente hacer un git clone del repositorio, accedemos a la carpeta y ejecutamos "python parte_1.py" o la parte que deseamos.
 ---
 ### Parte 1
 En esta parte solo hemos **hecho uso** de la librería **os** para la creación y lectura del archivo. **Hemos creado** un archivo y **escrito** la información de reserva para posteriormente leer la información de las reservas escritas y sacar **cuántas** personas van en **Business**. Resultado al ejecutar el script:
