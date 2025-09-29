@@ -83,7 +83,7 @@ reservas=[
     "08F, Sofía Vargas, Economy, Londres"
 ]
 
-directorio_destino = "Act1"
+directorio_destino = "Actividad_1_Acceso_a_Datos"
 #crear_archivo_reserva("reservas_maestro.txt", directorio_destino) #No se crea el archivo maestro
 escribir_reservas("reservas_maestro.txt", directorio_destino, reservas)
 print("")

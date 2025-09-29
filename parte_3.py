@@ -4,7 +4,7 @@ from datetime import datetime
 # --- CONFIGURACIÓN DE ARCHIVOS ---
 ARCHIVO_MAESTRO_ERRORES = "reservas_maestro_con_errores.txt"
 ARCHIVO_LOG_ERRORES = "registro_errores.log"
-DIRECTORIO_DESTINO = "Act1" 
+DIRECTORIO_DESTINO = "Actividad_1_Acceso_a_Datos" 
 NUM_CAMPOS_REQUERIDOS = 4  # (Seient, Nom, Classe, Destí)
 
 # --- DATOS INICIALES (Con Errores para la prueba) ---
